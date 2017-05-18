@@ -1,7 +1,7 @@
 {
-  "Company": "Your Company",
+  "Company": "SFDX Deloitte",
   "Country": "US",
-  "Email": "yourname@example.com",
+  "Email": "sfdxemployee@example.com",
   "Edition": "Developer",
   "OrgPreferences" : {
     "S1DesktopEnabled" : true
