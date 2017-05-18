@@ -1,9 +1,12 @@
 {
-  "Company": "SFDX Deloitte",
-  "Country": "US",
-  "Email": "sfdxemployee@example.com",
-  "Edition": "Developer",
-  "OrgPreferences" : {
-    "S1DesktopEnabled" : true
-  }
+"Company": "Deloitte",
+"Country": "US",
+"LastName": "Sri",
+"Email": "sri@salesforcedx.com",
+"Edition": "Enterprise",
+"Features": "MultiCurrency;AuthorApex",
+"OrgPreferences": {
+"S1DesktopEnabled": true,
+"ChatterEnabled": false
+}
 }
