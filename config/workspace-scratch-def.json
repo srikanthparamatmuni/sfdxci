@@ -1,12 +1,10 @@
 {
-"Company": "Deloitte",
-"Country": "US",
-"LastName": "Sri",
-"Email": "sri@salesforcedx.com",
-"Edition": "Enterprise",
-"Features": "MultiCurrency;AuthorApex",
-"OrgPreferences": {
-"S1DesktopEnabled": true,
-"ChatterEnabled": false
-}
+  "Company": "testdxorg",
+  "Country": "US",
+  "Email": "scratchorgdx@scratchorgdx.com",
+  "LastName": "srikanth",
+  "Edition": "Developer",
+  "OrgPreferences" : {
+    "S1DesktopEnabled" : true
+  }
 }
